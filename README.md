@@ -1,1 +1,1 @@
-my second read me file for project bash
+My second read me file
